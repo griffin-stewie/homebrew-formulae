@@ -4,8 +4,8 @@
 class MyEcho < Formula
   desc "my_echo command is just sample code."
   homepage "https://github.com/griffin-stewie/my_echo"
-  url "https://github.com/griffin-stewie/my_echo/releases/download/v0.0.18/release_binary.zip"
-  sha256 "6baef9ce64b56ad2827383659400fdfb026c5a1bcdab168ef579e9b68158756a"
+  url "https://github.com/griffin-stewie/my_echo/releases/download/v0.1.0/release_binary.zip"
+  sha256 "de1aab5db5dfe3c69f605ec26fcf8f894cbdc5d6c94bd01383217155b3fbf6b9"
   license "MIT"
 
   def install
