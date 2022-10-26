@@ -1,6 +1,6 @@
 cask "date" do
-  version "0.1"
-  sha256 "10b6c0d7bd86b6f063ee58bff34a67ddde6a8b487bcf23fc1d7abe25bc05418a"
+  version "1.0.0"
+  sha256 "82062da448661ace520b37e06cc3b0783e0b26643ecbf3cbb3d33d317ffefbeb"
   
   url "https://github.com/griffin-stewie/Date/releases/download/v#{version}/Date.app.zip"
   name "Date"
