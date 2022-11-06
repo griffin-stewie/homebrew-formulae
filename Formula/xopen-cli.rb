@@ -4,8 +4,8 @@
 class XopenCli < Formula
   desc "xopen command helps you open your project using Xcode."
   homepage "https://github.com/griffin-stewie/xopen-cli"
-  url "https://github.com/griffin-stewie/xopen-cli/releases/download/v1.8.2/release_binary.zip"
-  sha256 "c707f5c0d9c2edb17c4a0a899e7537335231462e5879a1fe6644b359fd498d2e"
+  url "https://github.com/griffin-stewie/xopen-cli/releases/download/v1.8.3/release_binary.zip"
+  sha256 "5b3012c919ab9b29f0adfb80f0859ae3627644c1ab876e6587c37c6c8923f23e"
   license "MIT"
 
   def install
